@@ -1,6 +1,6 @@
 :man_student:
 # LP3A5 - Prof. Diego
-Esse repositório é um portfólio dos códigos desenvolvidos para a matéria de [Linguagem de Programação 3](https://www.notion.so/LP3A5-Prof-Diego-f93981de72ff45baa2a52e8261d19ad8), do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal São Paulo - Campus SPO, que tem como professor responsável Diego Caldas.
+Esse repositório é um portfólio dos códigos desenvolvidos para a matéria de [Linguagem de Programação III](https://www.notion.so/LP3A5-Prof-Diego-f93981de72ff45baa2a52e8261d19ad8), do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal São Paulo - Campus SPO, que tem como professor responsável Diego Caldas.
 #
 ### Atividades:
 
@@ -39,6 +39,7 @@ Tarefa 5 - Optional e Exceptions
 - Avaliação (*0,4)
 - (10 / Quantidade exercícios) * nota de exercícios * 0,2
 - **Portfólio**
+- [Caderno](https://www.notion.so/LP3A5-Prof-Diego-f93981de72ff45baa2a52e8261d19ad8)
 
 *[+] Informações no documento do prof. no Moodle*
 
