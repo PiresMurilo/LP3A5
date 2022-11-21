@@ -38,8 +38,7 @@ Tarefa 5 - Optional e Exceptions
 
 - Avaliação (*0,4)
 - (10 / Quantidade exercícios) * nota de exercícios * 0,2
-- Portfólio
-- **Média de tudo!**
+- **Portfólio**
 
 *[+] Informações no documento do prof. no Moodle*
 
